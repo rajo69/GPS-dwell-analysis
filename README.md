@@ -21,4 +21,4 @@ Aditional files:
 None
 
 NOTE:
-My computer is lagging due to the volume of data, given a more compute power, I can do even more extensive analysis of the dwell pattern and user location.
+My computer is lagging due to the volume of data, given more compute power, I can do even more extensive analysis of the dwell pattern and user location.
