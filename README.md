@@ -11,7 +11,7 @@ sklearn
 
 How to run:
 1) Download the folder 'GPS-dwell-analysis' from this repository.
-2) Download anaconda navigator and open jupyter notebook from the folder just downloaded 'GPS-data-analysis'.
+2) Download anaconda navigator and open jupyter notebook from the folder just downloaded 'GPS-dwell-analysis'.
 3) Open the notebook 'GPS_Dwell_Analysis_V1.1.ipynb' and run each cell sequentially.
 
 Data analysis report:
