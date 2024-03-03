@@ -15,6 +15,7 @@ How to run:
 1) Download the folder 'GPS-dwell-analysis' from this repository.
 2) Download anaconda navigator and open jupyter notebook from the folder just downloaded 'GPS-dwell-analysis'.
 3) Open the notebook 'GPS_Dwell_Analysis_V1.1.ipynb' and run each cell sequentially.
+4) In order to run 'GPS_Dwell_Analysis_V1.2.html', follow the above steps or open the file directly in web browser by double clicking. (Apologies for the inconvenience, I was unable to upload the entire notebook as there is a file size limit of 25Mbs in Github)
 
 Data analysis report:
 In the repository folder as 'Analysis_Report_V1.1.pdf'
