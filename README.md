@@ -17,6 +17,9 @@ How to run:
 3) Open the notebook 'GPS_Dwell_Analysis_V1.1.ipynb' and run each cell sequentially.
 4) In order to run 'GPS_Dwell_Analysis_V1.2.html', follow the above steps or open the file directly in web browser by double clicking. (Apologies for the inconvenience, I was unable to upload the entire notebook as there is a file size limit of 25Mbs in Github)
 
+I have also provided the link of the complete 'GPS_Dwell_Analysis_V1.2.ipynb' file below:
+https://drive.google.com/file/d/12BPo1sT_CQRP9pVZw8kMdPh6zokY_aws/view?usp=sharing
+
 Data analysis report:
 In the repository folder as 'Analysis_Report_V1.1.pdf'
 
